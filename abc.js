@@ -1,0 +1,1 @@
+console.log("abc gives you : "+30);
